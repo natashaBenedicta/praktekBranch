@@ -4,3 +4,6 @@ Berikut tugas-tugas yang harus dilakukan masing-masing anggota tim :
 (A) Boen : membuat grafik-grafik yang diperlukan pada halaman ke-2
 
 This document written by : PM - Natasha Benedicta
+
+
+Tasha menambahkan baris ini.
